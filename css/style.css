@@ -329,7 +329,7 @@ Navigation
 }
 
 .navbar-custom ul.nav li a {
-	font-size: 13px;
+
 	letter-spacing: 1px;
     color: #666;
 	text-transform: uppercase;
@@ -1092,7 +1092,8 @@ Elements
 }
 
 .item {
-    margin: 10px;
+    margin: 8px;
+	border:1px solid #dddddd
 }
 
 .item img {
